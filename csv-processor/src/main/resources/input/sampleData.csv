@@ -1,0 +1,15 @@
+user_id,first_name,last_name,version,insurance_company
+userId1,Peter1,Parker,1,Cigna
+userId2,Tony,Stark,1,Cigna
+userId3,Bruce,Banner,1,Humana
+userId4,Steve,Rogers,1,Humana
+userId1,Peter3,Parker,3,Cigna
+userId2,Tony,Stark,3,Cigna
+userId4,Steve,Rogers,3,Humana
+userId1,Peter2,Parker,2,Cigna
+userId2,Tony,Stark,2,Cigna
+userId3,Bruce,Banner,2,Humana
+userId4,Steve,Rogers,2,Humana
+userId4,Steve,Rogers,4,Humana
+userId5,Abc,Parker,1,Cigna
+userId5,Xyz,Parker,1,Cigna

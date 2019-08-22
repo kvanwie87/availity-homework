@@ -1,0 +1,11 @@
+.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+.project
+.settings/
+bin/
+.classpath
+.cache-main
+.cache-tests

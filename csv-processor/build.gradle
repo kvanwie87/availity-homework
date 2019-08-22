@@ -1,0 +1,15 @@
+plugins {
+    id 'scala' 
+    id 'java-library'
+    id 'eclipse'
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.apache.spark:spark-core_2.11:2.4.3'
+    compile 'org.apache.spark:spark-sql_2.11:2.4.3'
+	compile 'org.scala-lang:scala-library:2.11.11'
+}
