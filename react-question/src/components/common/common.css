@@ -1,0 +1,13 @@
+.content {
+  max-width: 1440px;
+  width: 80%;
+  margin: auto;
+}
+.main-section {
+  float: left;
+  width: 100%;
+}
+
+.main-section h1 {
+  font-size: 36px;
+}

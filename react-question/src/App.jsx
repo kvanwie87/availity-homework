@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import { hot } from 'react-hot-loader/root';
-import Nav from './components/nav/Nav';
+import Nav from './components/header/Nav';
 import Registration from './components/registration/Registration';
+import HeaderContainer from './components/header/HeaderContainer';
+import style from './components/common/common.css';
 
 class App extends Component {
   constructor(props) {
@@ -11,8 +13,8 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <Nav />
+      <div className={style.content}>
+        <HeaderContainer />
         <Registration />
       </div>
     );
